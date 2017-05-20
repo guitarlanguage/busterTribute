@@ -1,0 +1,15 @@
+
+
+#wiki {
+  border: solid;
+}
+
+#larger {
+  font-size: 1.25em;
+}
+.quote {
+  font-family: cursive;
+}
+.time {
+  text-decoration: underline;
+}
