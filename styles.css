@@ -1,4 +1,30 @@
+body {
+background: black;
+font-family: neplus ultra;
+color: cyan;
+}
 
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.jumbotron {
+  background-color: grey;
+}
+
+
+h2 {
+  color: cyan;
+}
+
+h2 {
+	text-align: center;
+}
+
+.bio {
+	text-align: center;
+}
 
 #wiki {
   border: solid;
